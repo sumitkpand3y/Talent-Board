@@ -10,11 +10,11 @@ npm run dev
 ```
 ## Postman call mathod
 
-Post
+Post: To create profile
 ```
 http://localhost:5000/talent
 ```
-get
+Get: To get all profiles
 ```
 http://localhost:5000/talent/filters
 ```
